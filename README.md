@@ -25,15 +25,15 @@ are under nine inches long.
 
 Adjust the parameters at the start of `setting_circle.scad` to match your
 desired size. The "native" unit in OpenSCAD is millimeters, so inch
-measurements should be multiplied by 25.4 here. The code is not foll- nor
+measurements should be multiplied by 25.4 here. The code is not fool- nor
 bullet-proof so you should uncomment the final line in that file so that it
 generates output in OpenSCAD and tweak things until you are happy with the
-result.
+result. Then, open the eight `setting_circle_sliceN.scad` files, render them
+and export to STL.
 
-Then, open the eight `setting_circle_sliceN.scad` files, render them and export to
-STL. There is a parameter in `sliced_setting_circle.scad` called `HALF_KERF` 
-that will need to be set appropriately for your 3D printer so that the
-interlocking pieces will fit snugly together. Expect to print and test as you
-adjust that parameter.  Using the `sliced_setting_circle()` module, you should
-be able to make little test pieces to get the fit right before printing the
-entire thing.
+There is a parameter in `sliced_setting_circle.scad` called `HALF_KERF` that
+will need to be set appropriately for your 3D printer so that the interlocking
+pieces will fit snugly together. Expect to print and test as you adjust that
+parameter.  Using the `setting_circle1_short.scad` and
+`setting_circle2_short.scad` files, you should be able to make little test
+pieces to get the fit right before printing the entire thing.

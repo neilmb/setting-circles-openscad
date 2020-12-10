@@ -1,4 +1,4 @@
-// Cut the setting circle: piece 2
+// Cut a little piece of the setting circle
 
 include <setting_circle.scad>
 
@@ -8,4 +8,4 @@ $fn = 100;
 
 use <sliced_setting_circle.scad>
 
-sliced_setting_circle(45, 90);
+sliced_setting_circle(0, 10);
