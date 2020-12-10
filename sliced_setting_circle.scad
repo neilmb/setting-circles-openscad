@@ -7,7 +7,7 @@ $fs = 0.01;
 $fn = 100;
 
 CUTTER_RADIUS = 0.25 * 25.4;
-HALF_KERF = 0.0025 * 25.4;
+HALF_KERF = 0.0035 * 25.4;
 
 INF = 5000;
 
