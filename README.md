@@ -37,3 +37,22 @@ pieces will fit snugly together. Expect to print and test as you adjust that
 parameter.  Using the `setting_circle1_short.scad` and
 `setting_circle2_short.scad` files, you should be able to make little test
 pieces to get the fit right before printing the entire thing.
+
+## Contributing
+
+If you have improvements or suggestions for this project, please [open an
+issue on
+Github](https://github.com/neilmb/setting-circles-openscad/issues/new/choose).
+
+## License
+
+[Setting-Circles-OpenSCAD](https://github.com/neilmb/setting-circles-openscad)
+by [Neil Martinsen-Burrell](https://github.com/neilmb) is licensed under
+[CC BY 4.0<img
+style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
+/><img
+style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
+/>](https://creativecommons.org/licenses/by/4.0)
+
