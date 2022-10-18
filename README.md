@@ -38,6 +38,9 @@ parameter.  Using the `setting_circle1_short.scad` and
 `setting_circle2_short.scad` files, you should be able to make little test
 pieces to get the fit right before printing the entire thing.
 
+![IMG_5504](https://user-images.githubusercontent.com/443389/196487566-1b0f7ef2-29bc-4c56-80fa-1d62a6d3e497.jpg)
+
+
 ## Contributing
 
 If you have improvements or suggestions for this project, please [open an
